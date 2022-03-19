@@ -1,12 +1,12 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Hi Trúc 🖐🖐🖐',
+    introTitle: '🖐 Hi Trúc 😳',
     introDesc: `Anh có điều này muốn hỏi, Em nhớ phải trả lời thật lòng nha`,
     btnIntro: 'OK',
     title: 'Em có thích anh không  😳',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
     btnYes: 'Có, em thích anh nhiều lắm 💖💖💖',
-    btnNo: '💔 Không, anh đang bị ảo à 💔 ',
+    btnNo: 'Anh bị ảo à ',
     question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
